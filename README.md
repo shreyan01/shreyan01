@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
 </div>
 
@@ -55,7 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shreyan01/shreyan01/output/snake.svg" alt="Snake animation" />
 
 ###
 
