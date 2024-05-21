@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreyan and I'm a student aiming to learn Full-Stack Dev.</h2>
+<h2 align="left">Hi 👋! Just trying to debug you but you are perfect ;). Also trying to learn how to code and enjoy it</h2>
 
 ###
 
