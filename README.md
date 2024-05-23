@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Just trying to debug you but you are perfect ;). Also trying to learn how to code and enjoy it</h2>
+<h2 align="left">Hi 👋! Just trying to debug you but you are executing pretty wellx ;). Also trying to learn how to code and enjoy it</h2>
 
 ###
 
