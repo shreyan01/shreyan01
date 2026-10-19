@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shreyan Shukla, Final year CS grad student, with a passion for building stuff. I'm currently working on multiple SaaS products. I mostly use Next JS or React for frontend and Azure for cloud needs, other than that I have no fixed tech stack
+I'm Shreyan Shukla, Final year ML grad student, with a passion for building stuff. I'm currently working on multiple SaaS products. I mostly use Next JS or React for frontend and Azure for cloud needs, other than that I have no fixed tech stack and python or Node JS for backend as well though. And if its ML or Robotics, most definitely python. 
 
 
 ## 🌐 Socials:
